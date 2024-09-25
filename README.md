@@ -3,3 +3,5 @@
 Soy Nicolás Brito un pedazo de crack de 27 años con 2 carreras dejadas, 0 hijos y orgullosamente deudor de mercadopago ;) Sé un poco de frontend javascript en framework React pero cada día se me olvida un poco más :(. Quizás el más tonto pero también el más gracioso. Mi hermana me dijo una vez que a las niñas les gusta el más risueño y no el más guapetón.
 ## Contact me
 Para contactar a este pedazo de TORO comuniquese a nicolaseduardobrito@gmail.com 
+## Languages
+Español nativo, fluent english like a bull, et un francais basique.
