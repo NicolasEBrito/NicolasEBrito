@@ -4,12 +4,20 @@ Soy Nicolás Brito un pedazo de crack de 27 años con 2 carreras dejadas, 0 hijo
 ## Contact me
 Para contactar a este pedazo de TORO comuniquese a nicolaseduardobrito@gmail.com 
 
+## Hobbies
+<li>Furbo
+<li>Videojuegos
+<li>Gimnasio
+<li>Cosas nerds
+
+
 ## Technologies
 -Front end: regularcito tirando a malo en React
 -Back end: fuck no
 
 ## Skills
 Juego muy bien al furbo y se muy buen inglés
+
 
 
 
